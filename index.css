@@ -5,15 +5,10 @@ h1 {
   font-size: 35px;
   color: white;
 }
-form {
-  width: 450px;
-  margin: 30px auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 20px;
-  background-color: aqua;
-  padding: 20px;
+.banner{
+    width: 100%;
+    height: 550px;
+    background-color: blue;
 }
 input {
   padding: 10px;
