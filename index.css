@@ -5,3 +5,10 @@ h1{
     font-size: 35px;
     color:white;
 }
+form{
+    width: 300px;
+
+}
+input{
+    padding: 10px;
+}
